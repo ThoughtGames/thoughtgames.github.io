@@ -1,0 +1,18 @@
+body {
+  background: #111;
+  color: #FFF;
+  max-width: 600px;
+  width: 100%;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
